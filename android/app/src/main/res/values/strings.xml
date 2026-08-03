@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tranquility</string>
+    <string name="accessibility_service_description">
+        Tranquility monitors which app is in the foreground so it can show
+        a mindful pause before you open a restricted app. No personal data
+        is collected or transmitted.
+    </string>
+</resources>
